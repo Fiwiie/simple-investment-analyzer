@@ -1,2 +1,16 @@
 # simple-investment-analyzer
-A Python program that calculates investment returns and determines whether an investment is profitable based on interest rate and time.
+# Simple Investment Analyzer
+
+This is a Python program that calculates interest, final investment value, and evaluates whether an investment is good based on profit rate.
+
+## Features
+- Takes user input (investment, rate, time)
+- Converts percentages and time correctly
+- Calculates interest and final value
+- Evaluates investment performance
+
+## Built With
+- Python
+
+## Author
+Fawaz
